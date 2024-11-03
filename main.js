@@ -119,7 +119,7 @@ function campusLife(){
     if(i==0){
         i=1;
         slogan.style.height="100px";
-        slogan2.innerHTML="I'am Currently Year 3 student in Software Engineering course in UTHM. Along my university life, I meet many of cute and lovely friends. The most remembered memory during my campus life is that when I show them my Magic trick, they all expressed with it. It's nice to meet them here!^_^";
+        slogan2.innerHTML="I'am Currently Year 3 student in Software Engineering course in UTHM. Along my university life, I meet many of cute and lovely friend. The most remembered memory during my campus life is that when I show them my Magic trick, they all expressed with it. It's nice to meet them here!^_^";
     } else {
         i=0;
         slogan.style.height="50px";
