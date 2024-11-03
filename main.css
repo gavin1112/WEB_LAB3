@@ -253,3 +253,8 @@ a{
     text-decoration: none;
     cursor: pointer;
 }
+
+video{
+    height: 30%;
+    width: 30%;
+}
